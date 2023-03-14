@@ -22,4 +22,4 @@ Mazer is under [MIT License](./LICENSE).
 
 ## Author
 
-Mazer is created by <a href="https://pirulug.github.io">Pirulug</a>.
+AdminPirulug is created by <a href="https://pirulug.github.io">Pirulug</a>.
